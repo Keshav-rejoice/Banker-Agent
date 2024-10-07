@@ -4,7 +4,7 @@ from openai import OpenAI
 import base64
 import json
 from urllib.parse import urlparse
-import fitz
+# import fitz
 import openai
 from PIL import Image
 from io import BytesIO
