@@ -129,9 +129,10 @@ if file_saved and openaiinit:
     Query: {query_str}
 
     Your response should include:
-    1. A concise overview of the query (account type, transaction, loan, etc.)
+    1. A concise overview of the query (account type, transaction, loan,credit cards etc.)
     2. Key factors or regulations to consider
     3. Relevant banking product or service details
+    
     4. Potential implications for the customer’s financial situation
     5. Any caveats or limitations based on account terms or regulations
 
