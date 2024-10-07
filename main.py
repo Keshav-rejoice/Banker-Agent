@@ -131,11 +131,13 @@ if file_saved and openaiinit:
 
     Your response should include:
     1. A concise overview of the query (account type, transaction, loan,credit cards etc.)
-    2. Key factors or regulations to consider
-    3. Relevant banking product or service details
+    2. Key factors or regulations to consider while paying credit card bills
+    3. Relevant banking product or service details.
+    4.Please summarize the transaction history for the customer like transactions,amount paid,any pending payment or overdue charges.
+    5. Please handles the transactions related to credit or debit card.
 
-    4. Potential implications for the customer’s financial situation
-    5. Any caveats or limitations based on account terms or regulations
+    6. Potential implications for the customer’s financial situation
+    7. Any caveats or limitations based on account terms or regulations
 
     Answer:
     """
