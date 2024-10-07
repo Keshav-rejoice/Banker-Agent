@@ -1,3 +1,4 @@
 openai
 llama-index
 pinecone-client
+llama-index-vector-stores-pinecone

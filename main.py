@@ -76,7 +76,7 @@ file_imagesaved = "outputuserpdfimages"
 text = ""
 if file_saved and openaiinit:
     st.write("Give us some time to  preprocess documents")
-    pdf_to_images(save_path,file_imagesaved)
+    # pdf_to_images(save_path,file_imagesaved)
     # for filename in os.listdir(file_imagesaved):
     #     word = ""
     #     file_path = os.path.join(file_imagesaved,filename)
