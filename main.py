@@ -161,7 +161,7 @@ if file_saved and openaiinit:
    )
     
   
-    documents=SimpleDirectoryReader("data1").load_data()
+    documents=SimpleDirectoryReader("uploaded_pdf").load_data()
     pc = Pinecone(api_key="264040b3-b298-4918-9d56-b31134d5ba48")
     pinecone_index = pc.Index("bankagent")
     vector_store = PineconeVectorStore(
